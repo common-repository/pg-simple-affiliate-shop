@@ -1,0 +1,526 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PG Simple Affiliate Shop\n"
+"POT-Creation-Date: 2012-12-14 16:22-0000\n"
+"PO-Revision-Date: 2012-12-14 16:22-0000\n"
+"Last-Translator: \n"
+"Language-Team: PeoplesGeek\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr__;esc_attr_e;"
+"esc_html__;esc_html_e;_x;_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: shop.php:73
+msgid ""
+"This description of the product is displayed beside the product image on "
+"shop pages only"
+msgstr ""
+
+#: shop.php:74
+msgid "The image for the product or banner display"
+msgstr ""
+
+#: shop.php:75
+msgid "Displayed by the image in shop pages only"
+msgstr ""
+
+#: shop.php:76
+msgid ""
+"Your affiliate link or URL, used as the target for banner images and buy now "
+"buttons"
+msgstr ""
+
+#: shop.php:77
+msgid ""
+"An optional testimonial for the product, shown at the bottom of the product "
+"in shop pages only"
+msgstr ""
+
+#: shop.php:78
+msgid ""
+"Optional name for the person giving the testimonial , shown under the "
+"testimonial in shop pages only"
+msgstr ""
+
+#: shop.php:96
+msgid "General Options"
+msgstr ""
+
+#: shop.php:97
+msgid "Help"
+msgstr ""
+
+#: shop.php:101 shop.php:915
+msgid "PG Simple Affiliate Shop"
+msgstr ""
+
+#: shop.php:242 shop.php:878
+msgid "Shop"
+msgstr ""
+
+#: shop.php:243
+msgid "All Products"
+msgstr ""
+
+#: shop.php:244
+msgid "Product"
+msgstr ""
+
+#: shop.php:245 shop.php:246
+msgid "Add New Product"
+msgstr ""
+
+#: shop.php:247
+msgid "Edit"
+msgstr ""
+
+#: shop.php:248
+msgid "New"
+msgstr ""
+
+#: shop.php:249
+msgid "View"
+msgstr ""
+
+#: shop.php:250
+msgid "Search Products"
+msgstr ""
+
+#: shop.php:251
+msgid "No products found"
+msgstr ""
+
+#: shop.php:252
+msgid "No products found in trash"
+msgstr ""
+
+#: shop.php:254
+msgid ""
+"Products to be displayed as affiliate links in either banner advertisements "
+"or with description and details"
+msgstr ""
+
+#: shop.php:273 shop.php:274
+msgid "Product Type"
+msgstr ""
+
+#: shop.php:275
+msgid "Search product types"
+msgstr ""
+
+#: shop.php:276
+msgid "Popular product types"
+msgstr ""
+
+#: shop.php:277
+msgid "All Types"
+msgstr ""
+
+#: shop.php:278
+msgid "Parent Type"
+msgstr ""
+
+#: shop.php:279
+msgid "Edit Product Type"
+msgstr ""
+
+#: shop.php:280
+msgid "Update Product Type"
+msgstr ""
+
+#: shop.php:281
+msgid "Add New Product Type"
+msgstr ""
+
+#: shop.php:282
+msgid "New Product Type"
+msgstr ""
+
+#: shop.php:292
+msgid "Banner Advert"
+msgstr ""
+
+#: shop.php:293
+msgid "These products will be shown in the list of banner adds"
+msgstr ""
+
+#: shop.php:294
+msgid "Shop Product"
+msgstr ""
+
+#: shop.php:295
+msgid "These products will be shown in the shop"
+msgstr ""
+
+#: shop.php:299
+msgid "On Sale"
+msgstr ""
+
+#: shop.php:301
+msgid "These products may be highlighted as on sale"
+msgstr ""
+
+#: shop.php:309
+msgid "Affiliate Product Details"
+msgstr ""
+
+#: shop.php:348
+msgid ""
+"* These fields are used by the banner advertisement style of display and are "
+"the minimum required"
+msgstr ""
+
+#: shop.php:351
+msgid "Caution:"
+msgstr ""
+
+#: shop.php:351
+msgid "Your system default for linking images is not set to \"file\""
+msgstr ""
+
+#: shop.php:352
+msgid ""
+"You must make sure the file is selected when using the browse button / media "
+"uploader above or the image field will appear blank. "
+msgstr ""
+
+#: shop.php:353
+msgid ""
+"Ensure you choose the \"File URL\" button in the uploader before clicking on "
+"\"Insert into Post\" "
+msgstr ""
+
+#: shop.php:510
+msgid "there are no products to show"
+msgstr ""
+
+#: shop.php:530 shop.php:532
+msgid "Previous"
+msgstr ""
+
+#: shop.php:544 shop.php:546
+msgid "Next"
+msgstr ""
+
+#: shop.php:647
+msgid "Type/#"
+msgstr ""
+
+#: shop.php:648 shop.php:745
+msgid "Title"
+msgstr ""
+
+#: shop.php:682 shop.php:701
+msgid "Not Entered"
+msgstr ""
+
+#: shop.php:691
+msgid ""
+"This image does not appear to be hosted on your local site, unless you are "
+"using a CDN you may not have control over this image"
+msgstr ""
+
+#: shop.php:692
+msgid "Not Local"
+msgstr ""
+
+#: shop.php:737 shop.php:794
+msgid "Reorder Products"
+msgstr ""
+
+#: shop.php:738
+#, php-format
+msgid ""
+"Simply drag a product up or down by clicking and draging on the %1$s and the "
+"new order will be saved automatically"
+msgstr ""
+
+#: shop.php:739 shop.php:759
+msgid "Move Icon"
+msgstr ""
+
+#: shop.php:743
+msgid "Drag"
+msgstr ""
+
+#: shop.php:744
+msgid "Type"
+msgstr ""
+
+#: shop.php:746
+msgid "Description"
+msgstr ""
+
+#: shop.php:747
+msgid "Image"
+msgstr ""
+
+#: shop.php:754
+msgid ""
+"You have not added any products yet. Add some and then reorder them here."
+msgstr ""
+
+#: shop.php:795
+msgid "Product Reorder"
+msgstr ""
+
+#: shop.php:879 shop.php:888
+msgid "Buy Button Text"
+msgstr ""
+
+#: shop.php:880
+msgid "Show Quote Images for testimonials"
+msgstr ""
+
+#: shop.php:881
+msgid "Products per page"
+msgstr ""
+
+#: shop.php:881
+msgid " -1 = unlimited"
+msgstr ""
+
+#: shop.php:882
+msgid "Show Pagenation controls"
+msgstr ""
+
+#: shop.php:882
+msgid " Top "
+msgstr ""
+
+#: shop.php:883
+msgid " Bottom "
+msgstr ""
+
+#: shop.php:884
+msgid " Both "
+msgstr ""
+
+#: shop.php:887
+msgid "Banner"
+msgstr ""
+
+#: shop.php:889
+msgid "Show Buy Button in Banner"
+msgstr ""
+
+#: shop.php:890
+msgid "Show Hover Image in Banner"
+msgstr ""
+
+#: shop.php:892
+msgid "Button Color"
+msgstr ""
+
+#: shop.php:892
+msgid " Black "
+msgstr ""
+
+#: shop.php:893
+msgid " Gray "
+msgstr ""
+
+#: shop.php:894
+msgid " White "
+msgstr ""
+
+#: shop.php:895
+msgid " Orange "
+msgstr ""
+
+#: shop.php:896
+msgid " Red"
+msgstr ""
+
+#: shop.php:897
+msgid " Blue "
+msgstr ""
+
+#: shop.php:898
+msgid " Rosy "
+msgstr ""
+
+#: shop.php:899
+msgid " Green "
+msgstr ""
+
+#: shop.php:900
+msgid " Pink "
+msgstr ""
+
+#: shop.php:901
+msgid " Custom "
+msgstr ""
+
+#: shop.php:901
+msgid ""
+"* If you choose Custom you must add your own CSS to the stylesheet or no "
+"formatting used"
+msgstr ""
+
+#: shop.php:903
+msgid "Inline Images"
+msgstr ""
+
+#: shop.php:904
+msgid "Show title when hovering over inline image links"
+msgstr ""
+
+#: shop.php:916
+msgid ""
+"This shop allows you to manage a simple affiliate shop on your site. It "
+"supports two listed formats, a shop page with details for a product you are "
+"promoting and a banner format that is intended to display a column of "
+"banners in a sidebar"
+msgstr ""
+
+#: shop.php:917
+msgid ""
+"You can also use the inline format to show individual items anywhere in a "
+"post or a page."
+msgstr ""
+
+#: shop.php:918
+msgid ""
+"Once you have entered details such as the product image and link in the "
+"store back end you can add a shortcode to pages and widgets."
+msgstr ""
+
+#: shop.php:919
+msgid ""
+"You can also choose change the text on buttons, show quotes or no quotes at "
+"all, whether banner buttons are displayed, or how to change all the "
+"formatting"
+msgstr ""
+
+#: shop.php:920
+msgid "Short Code Details"
+msgstr ""
+
+#: shop.php:921
+msgid "The shortcodes are:"
+msgstr ""
+
+#: shop.php:922 shop.php:924
+#, php-format
+msgid "%1$s or %2$s,"
+msgstr ""
+
+#: shop.php:923
+#, php-format
+msgid "%1$s or %2$s, and"
+msgstr ""
+
+#: shop.php:926
+msgid ""
+"Displays all of the products in the type \"shop-product\" and their children "
+"(ie \"shop-products\" and \"on-sale\")"
+msgstr ""
+
+#: shop.php:927 shop.php:936
+msgid ""
+"Modifies what is displayed based on the parameter<br/>Valid parameters are:"
+msgstr ""
+
+#: shop.php:929
+msgid "Don't show the title for the products, default is true"
+msgstr ""
+
+#: shop.php:930 shop.php:938
+msgid ""
+"Put the product number in place of ??. Product number can be found on the "
+"All Products page in the Title/# column. This will override the following "
+"parameters"
+msgstr ""
+
+#: shop.php:931 shop.php:939
+msgid ""
+"Put the \"slug\" of the product category you want to display. Slug can be "
+"found on the Product Type page"
+msgstr ""
+
+#: shop.php:932 shop.php:940
+msgid "Do not show children of this category (default is true)"
+msgstr ""
+
+#: shop.php:933
+msgid ""
+"Override the number of products per page on the settings page. -1 = all on "
+"one page"
+msgstr ""
+
+#: shop.php:935
+msgid ""
+"Displays all of the banners (these are the ones with the type \"banner-advert"
+"\") and their children"
+msgstr ""
+
+#: shop.php:942
+msgid ""
+"Use this in a post or page to show just one image and link<br/>Valid "
+"parameters are:"
+msgstr ""
+
+#: shop.php:944
+msgid ""
+"Put the product number in place of ??. Product number can be found on the "
+"All Products page in the Title/# column"
+msgstr ""
+
+#: shop.php:945
+msgid ""
+"put any valid WordPress float instruction here: alignleft, alignright or "
+"aligncenter"
+msgstr ""
+
+#: shop.php:946
+msgid "specify the height of the image eg height=\"100px\""
+msgstr ""
+
+#: shop.php:947
+msgid "specify the width of the image eg width=\"100px\""
+msgstr ""
+
+#: shop.php:950
+msgid "For example:"
+msgstr ""
+
+#: shop.php:950
+msgid ""
+"To show a shop page that included all the products in the \"On Sale\" "
+"category you would use "
+msgstr ""
+
+#: shop.php:951
+msgid "Alternate quote images"
+msgstr ""
+
+#: shop.php:952
+msgid ""
+"If you don't want to display the standard quotes then just un-tick the show "
+"quotes checkbox"
+msgstr ""
+
+#: shop.php:953
+msgid ""
+"If you are a bit more technical and want to override all of the formatting "
+"then copy the pg-sas.css file to your theme folder and overwrite the css "
+"that controls the format. This is the safest way as your changes won't be "
+"lost when the plugin is updated. You will need to add your own formatting if "
+"you choose the custom color for buttons"
+msgstr ""
+
+#: shop.php:972
+#, php-format
+msgid ""
+"Your WordPress version is %1$s, you need to be running at least WordPress "
+"%2$s to use PG Simple Affiliate Shop"
+msgstr ""
+
+#: shop.php:973
+msgid "PG Simple Affiliate Shop requires a later version of WordPress"
+msgstr ""

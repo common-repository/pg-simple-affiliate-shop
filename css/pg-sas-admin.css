@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+
+
+.pg-sas-reorder .column-order  {
+	width:30px;
+}
+.pg-sas-reorder .column-type {
+	width: 110px;
+}
+.pg-sas-reorder .column-title {
+	width: 150px;
+}
+#pg-settings ul{
+	list-style: disc; 
+	margin-left: 1.75em;
+}
+.pg-sas-file_not_default {
+    background: none repeat scroll 0 0 lightblue;
+}
